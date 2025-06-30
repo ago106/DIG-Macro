@@ -13,6 +13,7 @@
 
 > [!WARNING]
 > **This macro will missclick and could end your streak!** It may also fail frequently in rare/specific situations.
+> **Not my py file!**
 
 ## Requirements
  * [Python](https://www.python.org/) **[Recommended version: 3.13]**
